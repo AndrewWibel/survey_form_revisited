@@ -1,0 +1,10 @@
+{
+	"name": "survey_form",
+	"description": "Express survey form using socket.io",
+	"dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "1.0.0",
+    "express": "~4.10.0",
+    "socket.io": "^1.4.5"
+  }
+}
